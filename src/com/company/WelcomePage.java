@@ -11,7 +11,7 @@ public class WelcomePage {
 
         welcomeLabel.setBounds(0,0, 200,35);
         welcomeLabel.setFont(new Font(null, Font.BOLD,35));
-        welcomeLabel.setText("Welcome to our College " + id + "!");
+        welcomeLabel.setText("Welcome to our College " + id + " !");
 
 
         frame.add(welcomeLabel);
